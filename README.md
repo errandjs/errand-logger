@@ -21,7 +21,7 @@ For dependencies and suggested usage of errand worker components refer to [erran
 		{
 			"task": "errand-logger",
 			"data": {
-				"name": "errand-logger-task-1",
+				"description": "replace-with-task-description",
 				"request": {
 					"message": "hello world"
 				}
@@ -37,6 +37,6 @@ Notes:
 
 * **tasks** - [errand](https://github.com/errandjs/errand) task list
 * **tasks[].task** - required `errand-logger` task name
-* **tasks[].data.name** - optional task name/description
+* **tasks[].data.description** - optional task description
 * **tasks[].data.request.message** - required message to write to log
 
