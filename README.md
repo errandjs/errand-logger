@@ -1,2 +1,2 @@
-# errand-sample
-sample errand component
+# errand-logger
+errand component used for logging
