@@ -1,0 +1,24 @@
+{
+  "name": "errand-logger",
+  "version": "0.1.1",
+  "description": "errand component used for logging",
+  "main": "lib/errand-logger.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "kue": "^0.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errandjs/errand-logger.git"
+  },
+  "author": "mattcam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/errandjs/errand-logger/issues"
+  },
+  "homepage": "https://github.com/errandjs/errand-logger#readme"
+}
