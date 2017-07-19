@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/errandjs/errand-logger/issues"
   },
+  "keywords": [
+    "errand"
+  ],
   "homepage": "https://github.com/errandjs/errand-logger#readme"
 }
